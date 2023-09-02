@@ -7,9 +7,9 @@ A tensorflow.js web application that utilies TF2 object detection models to reco
 
 ## Web Application Home Page
 
-<img width="1495" alt="image" src="https://github.com/ngzhili/LearnSign/assets/66234273/6059744c-bfec-48b4-b9b8-a5149722561c">
+<img width="755" alt="image" src="https://github.com/ngzhili/LearnSign/assets/66234273/46b8ba53-2727-4131-9729-825dd098b6b2">
 
-<img width="755" alt="image" src="https://github.com/ngzhili/LearnSign/assets/66234273/994b950c-fbf5-4c1a-b063-5641d124eafc">
+<img width="755" alt="image" src="https://github.com/ngzhili/LearnSign/assets/66234273/b50dabc2-231a-4356-866a-18c2aea28288">
 
 # Object Detection Models
 Using the concept of transfer learning, we finetuned [TensorFlow 2 Detection Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) SSD MobileNetv2 FPNLite 320x320 model weights via the TF2 Object Detection API in Google Colab. 
