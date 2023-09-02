@@ -5,7 +5,7 @@ import styled from "styled-components";
 
 import closeIcon from "../../src/assets/icons/close.png";
 import menuIcon from "../../src/assets/icons/menu.png";
-import fistBump from "../../src/assets/images/peace.png";
+import learnSignLogo from "../../src/assets/images/learnSignLogo.png";
 import { NAV_ITEMS } from "../constants/navigation";
 
 const StyledAppBar = styled.div`
@@ -25,33 +25,15 @@ const StyledIntro = styled.div`
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  padding: 4px;
 `;
-const StyledH1 = styled.h1`
-  font-size: 28px;
-  padding: 0;
-  margin: 0;
-  font-family: "poppins";
-  @media only screen and (max-width: 768px) {
-    font-size: 16px;
-  }
-`;
-const StyledPeaceSign = styled.img`
-  height: 50px;
-  width: 50px;
+const StyledLogo = styled.img`
+  width: 240px;
   padding: 0;
   margin-right: 12px;
   @media only screen and (max-width: 768px) {
     height: 30px;
     width: 30px;
-  }
-`;
-const StyledNameText = styled.div`
-  text-align: left;
-  margin: 4px;
-  font-size: 12px;
-  @media only screen and (max-width: 768px) {
-    font-size: 8px;
-    padding: 0;
   }
 `;
 const StyledNavToggle = styled.div`
@@ -133,11 +115,7 @@ function NavBar() {
   return (
     <StyledAppBar onBlur={collapseNav}>
       <StyledIntro>
-        <StyledPeaceSign src={fistBump} alt="V Sign" />
-        <div>
-          <StyledH1>LearnSign</StyledH1>
-          <StyledNameText>by Zhili and Pei Zhen</StyledNameText>
-        </div>
+        <StyledLogo src={learnSignLogo} alt="V Sign" />
       </StyledIntro>
       <StyledNavContainer>
         <StyledNavToggle onClick={handleToggleClick}>
