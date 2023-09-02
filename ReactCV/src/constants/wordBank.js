@@ -96,4 +96,12 @@ export const wordBank = [
   { word: "Study" },
   { word: "Whiteboard" },
   { word: "Glue" },
+  { word: "Ruler" },
+  { word: "Tape" },
+  { word: "Paint" },
+  { word: "Crayons" },
+  { word: "Markers" },
+  { word: "Binders" },
+  { word: "Dictionary" },
+  { word: "Highlighter" },
 ];
