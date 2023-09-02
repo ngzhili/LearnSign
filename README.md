@@ -6,9 +6,10 @@
 A tensorflow.js web application that utilies TF2 object detection models to recognize real-time static American Sign Language (ASL) via web browser. This web application comes in a form of a game that recognises ASL alphabets via the user's web cam. Try the live demo at [https://learnsign.vercel.app](https://learnsign.vercel.app).
 
 ## Web Application Home Page
-![image](https://user-images.githubusercontent.com/66234273/137351776-50edd012-7aef-45b2-b023-34ecd776c4ba.png)
 
-![image-inference](https://github.com/yappeizhen/AlphaSign/blob/master/read-me-images/extended-inference-2.JPG)
+<img width="1495" alt="image" src="https://github.com/ngzhili/LearnSign/assets/66234273/6059744c-bfec-48b4-b9b8-a5149722561c">
+
+<img width="755" alt="image" src="https://github.com/ngzhili/LearnSign/assets/66234273/994b950c-fbf5-4c1a-b063-5641d124eafc">
 
 # Object Detection Models
 Using the concept of transfer learning, we finetuned [TensorFlow 2 Detection Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) SSD MobileNetv2 FPNLite 320x320 model weights via the TF2 Object Detection API in Google Colab. 
