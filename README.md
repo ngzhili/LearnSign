@@ -3,7 +3,7 @@
 ![hosting](https://img.shields.io/badge/hosting-githubpages-blue)
 ![libraries](https://img.shields.io/badge/libraries-tensorflow,tensorflow.js,opencv-green)
 
-A tensorflow.js web application that utilies TF2 object detection models to recognize real-time static American Sign Language (ASL) via web browser. This web application comes in a form of a game that recognises ASL alphabets via the user's web cam. Try the live demo [here](https://learnsign.vercel.app).
+A tensorflow.js web application that utilies TF2 object detection models to recognize real-time static American Sign Language (ASL) via web browser. This web application comes in a form of a game that recognises ASL alphabets via the user's web cam. Try the live demo at [https://learnsign.vercel.app](https://learnsign.vercel.app).
 
 ## Web Application Home Page
 ![image](https://user-images.githubusercontent.com/66234273/137351776-50edd012-7aef-45b2-b023-34ecd776c4ba.png)
