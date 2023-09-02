@@ -2,7 +2,7 @@
   "name": "learnsign",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yappeizhen.github.io/LearnSign/",
+  "homepage": "https://ngzhili.github.io/LearnSign/",
   "scripts": {
     "start": "npm run --prefix ReactCV start",
     "build": "npm run --prefix ReactCV build",

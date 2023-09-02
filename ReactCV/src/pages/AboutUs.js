@@ -106,11 +106,7 @@ function AboutUs() {
           <br />
           <StyledTextContainer>
             Check out our source code&nbsp;
-            <Keyword
-              url="https://github.com/yappeizhen/LearnSign"
-              text="here"
-            />
-            .
+            <Keyword url="https://github.com/ngzhili/LearnSign" text="here" />.
           </StyledTextContainer>
           <br />
           <StyledTextContainer>
@@ -121,7 +117,7 @@ function AboutUs() {
                 name="Yap Pei Zhen"
                 major="Information Systems & Economics"
                 university="NUS"
-                github="https://github.com/yappeizhen"
+                github="https://github.com/ngzhili"
                 linkedin="https://www.linkedin.com/in/peizhen/"
               />
               <ProfileCard

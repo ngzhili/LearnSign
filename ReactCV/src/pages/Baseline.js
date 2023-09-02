@@ -15,7 +15,7 @@ function Baseline() {
       }
       wordBank={letterBank.slice(0, 4)}
       modelUrl={
-        "https://raw.githubusercontent.com/yappeizhen/LearnSign/master/ReactCV/src/tfjs_model_mobilenetv2_fpnlite_ABCD_best/model.json"
+        "https://raw.githubusercontent.com/ngzhili/LearnSign/master/ReactCV/src/tfjs_model_mobilenetv2_fpnlite_ABCD_best/model.json"
       }
       isBaseline={true}
     />
