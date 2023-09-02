@@ -65,15 +65,15 @@ function AboutUs() {
     <StyledWrapper>
       <StyledAppContainer>
         <StyledBodyWrapper>
-          <StyledH1>What is AlphaSign?</StyledH1>
+          <StyledH1>What is LearnSign?</StyledH1>
           <StyledTextContainer>
-            AlphaSign is an interactive game that seeks to encourage people to
+            LearnSign is an interactive game that seeks to encourage people to
             learn Sign Language, starting from the American Sign Language (ASL)
             alphabet.
           </StyledTextContainer>
           <br />
           <StyledTextContainer>
-            AlphaSign was developed by two students hoping to leverage the power
+            LearnSign was developed by two students hoping to leverage the power
             of AI to promote a more inclusive society. We hope to make the
             learning of sign language a fun and independent process by
             automating and gamifying the teaching of basic Sign Language using
@@ -82,7 +82,7 @@ function AboutUs() {
           <br />
           <StyledH1>Our Models</StyledH1>
           <StyledTextContainer>
-            AlphaSign features 2 models – the Baseline Model, and the Extended
+            LearnSign features 2 models – the Baseline Model, and the Extended
             Model. The Baseline Model was trained on four object classes, ‘A’,
             ‘B’, ‘C’, and ‘D’ to optimise for performance and accuracy. We then
             created the Extended Model which was trained on all letters of ASL
@@ -106,11 +106,7 @@ function AboutUs() {
           <br />
           <StyledTextContainer>
             Check out our source code&nbsp;
-            <Keyword
-              url="https://github.com/yappeizhen/AlphaSign"
-              text="here"
-            />
-            .
+            <Keyword url="https://github.com/ngzhili/LearnSign" text="here" />.
           </StyledTextContainer>
           <br />
           <StyledTextContainer>
@@ -121,7 +117,7 @@ function AboutUs() {
                 name="Yap Pei Zhen"
                 major="Information Systems & Economics"
                 university="NUS"
-                github="https://github.com/yappeizhen"
+                github="https://github.com/ngzhili"
                 linkedin="https://www.linkedin.com/in/peizhen/"
               />
               <ProfileCard

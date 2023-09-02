@@ -11,11 +11,11 @@ function WordGame() {
       id="wordgame"
       title="Word Game"
       description={
-        "This is a simple game developed based on the AlphaSign extended model"
+        "This is a simple game developed based on the LearnSign extended model"
       }
       wordBank={wordBank}
       modelUrl={
-        "https://raw.githubusercontent.com/yappeizhen/AlphaSign/master/ReactCV/src/tfjs_model_mobilenetv2_fpnlite_all_classes_v2/model.json"
+        "https://raw.githubusercontent.com/ngzhili/LearnSign/master/ReactCV/src/tfjs_model_mobilenetv2_fpnlite_all_classes_v2/model.json"
       }
       isWordMode
     />
