@@ -32,8 +32,7 @@ const StyledLogo = styled.img`
   padding: 0;
   margin-right: 12px;
   @media only screen and (max-width: 768px) {
-    height: 30px;
-    width: 30px;
+    width: 120px;
   }
 `;
 const StyledNavToggle = styled.div`
