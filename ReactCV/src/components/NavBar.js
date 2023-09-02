@@ -135,7 +135,7 @@ function NavBar() {
       <StyledIntro>
         <StyledPeaceSign src={fistBump} alt="V Sign" />
         <div>
-          <StyledH1>AlphaSign</StyledH1>
+          <StyledH1>LearnSign</StyledH1>
           <StyledNameText>by Zhili and Pei Zhen</StyledNameText>
         </div>
       </StyledIntro>

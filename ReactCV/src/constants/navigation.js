@@ -1,4 +1,4 @@
-const baseUrl = "/AlphaSign";
+const baseUrl = "/LearnSign";
 
 export const NAV_ITEMS = {
   WORD_GAME: {
