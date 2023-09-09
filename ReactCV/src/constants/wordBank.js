@@ -92,7 +92,6 @@ export const wordBank = [
   { word: "Lesson" },
   { word: "Music" },
   { word: "Presentation" },
-  { word: "Project" },
   { word: "Study" },
   { word: "Whiteboard" },
   { word: "Glue" },
