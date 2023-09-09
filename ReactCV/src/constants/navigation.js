@@ -3,13 +3,13 @@ export const NAV_ITEMS = {
     to: `/wordgame`,
     text: "Word Game",
   },
+  ALL_CLASSES: {
+    to: `/alphabets`,
+    text: "Basic Alphabet",
+  },
   FOUR_CLASSES: {
     to: `/baseline`,
     text: "Baseline Model",
-  },
-  ALL_CLASSES: {
-    to: `/extended`,
-    text: "Extended Model",
   },
   ABOUT_US: {
     to: `/about-us`,
