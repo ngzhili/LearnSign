@@ -5,7 +5,7 @@ export const NAV_ITEMS = {
   },
   ALL_CLASSES: {
     to: `/alphabets`,
-    text: "Basic Alphabet",
+    text: "Alphabet Game",
   },
   FOUR_CLASSES: {
     to: `/baseline`,
