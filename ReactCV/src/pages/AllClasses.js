@@ -12,7 +12,7 @@ function AllClasses() {
   return (
     <GameTemplate
       id="extended"
-      title="Basic Alphabet"
+      title="Alphabet Game"
       description={
         "This model was trained on 24 alphabets for a more holistic representation of a sign language alphabet game. The letters 'J' and 'Z' were excluded as they are dynamic signs that involve motion."
       }
