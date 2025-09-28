@@ -23,14 +23,14 @@ As the computer vision models are running on [tensorflow.js](https://www.tensorf
 
 ## 1) Baseline Model
 
-![image](https://github.com/yappeizhen/SignAI/blob/541e4b6ec86c82f9951894d048306ca80cc17ab1/read-me-images/video_inference_baseline.gif)
+<!-- ![image](https://github.com/yappeizhen/SignAI/blob/541e4b6ec86c82f9951894d048306ca80cc17ab1/read-me-images/video_inference_baseline.gif) -->
 
 - 4 Classes: A, B, C, D.
 - Finetuned on SSD MobileNetv2 FPNLite 320x320 pre-trained on COCO 2017 dataset.
 
 ## 2) Extended Model
 
-![image](https://github.com/yappeizhen/SignAI/blob/541e4b6ec86c82f9951894d048306ca80cc17ab1/read-me-images/video_inference_extended.gif)
+<!-- ![image](https://github.com/yappeizhen/SignAI/blob/541e4b6ec86c82f9951894d048306ca80cc17ab1/read-me-images/video_inference_extended.gif) -->
 
 - 24 Classes: A, B, C, D, E, F, G, H, I, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y.
 - J and Z are excluded as they are both dynamic sign langauges involving movement.
@@ -61,9 +61,10 @@ As the computer vision models are running on [tensorflow.js](https://www.tensorf
 
 
 
-## Video Inference 
+<!--  ## Video Inference 
 
-https://user-images.githubusercontent.com/69728128/140551491-1a4cc608-af6a-4e21-9a47-722ee12ec427.mp4
+https://user-images.githubusercontent.com/69728128/140551491-1a4cc608-af6a-4e21-9a47-722ee12ec427.mp4 -->
+
 
 
 
